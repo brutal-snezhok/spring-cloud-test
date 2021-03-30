@@ -1,9 +1,9 @@
 server:
-  port: 8080
+  port: 8888
 
 spring:
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/brutal-snezhok/spring-cloud-test.git
+          uri: https://github.com/brutal-snezhok/spring-cloud-test/tree/main/cloud-config
