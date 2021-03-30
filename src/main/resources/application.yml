@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/brutal-snezhok/spring-cloud-test/tree/main/cloud-config
+          uri: https://github.com/brutal-snezhok/spring-cloud-config
